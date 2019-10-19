@@ -10,10 +10,13 @@ This a simple snake game which runs in browser.
 # Dependencies
 HTML, CSS, JavaScript
 
+# References
+https://www.youtube.com/watch?v=xGmXxpIj6vs
+
 # My Original Contribution & Learnings
 
 Contribution =>
-None, just reimplemented the code being taught at a youtube vide.
+None, just reimplemented the code being taught at a youtube video mentioned in the references.
 
 Major Learnings => 
 Learnt how to use JS and HTML to built basic games.
